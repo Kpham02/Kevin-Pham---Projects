@@ -4,7 +4,7 @@ This repository contains selected data analytics and economics projects complete
 
 **Tools & Technologies**
 
-My work primarily uses Python and R with libraries such as pandas, statsmodels, scikit-learn, tidyverse, and Matplotlib. Several projects also use Power BI for dashboard development and public or API-based data sources including NBA and NFL datasets.
+My work primarily uses Python, R, and PowerBI with libraries such as pandas, statsmodels, scikit-learn, tidyverse, and Matplotlib. Several projects also use Power BI for dashboard development and public or API-based data sources including NBA and NFL datasets.
 
 **Projects**
 
